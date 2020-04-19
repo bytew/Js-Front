@@ -1,1 +1,1 @@
-你好
+你好，JavaScript算法。
